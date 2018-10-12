@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thehyve/react-select-checked.git"
+    "url": "git+https://github.com/zhx828/react-select-checked.git"
   },
   "dependencies": {
     "classnames": "^2.2.4",
@@ -15,9 +15,9 @@
   "author": "Riza Nugraha <rnugraha@gmail.com> (https://about.me/riza.nugraha)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/thehyve/react-select-checked/issues"
+    "url": "https://github.com/zhx828/react-select-checked/issues"
   },
-  "homepage": "https://github.com/thehyve/react-select-checked#readme",
+  "homepage": "https://github.com/zhx828/react-select-checked#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
